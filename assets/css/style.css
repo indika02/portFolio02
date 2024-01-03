@@ -1233,8 +1233,9 @@ section {
   color: white;
   height: 50px;
   text-align: center;
+  font-weight: bold;
+  padding: 10px;
   
 }
-.cvbtn:hover{
-  
-}
+
+
