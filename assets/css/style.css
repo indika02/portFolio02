@@ -410,6 +410,7 @@ section {
   font-weight: 700;
   font-size: 26px;
   color: #728394;
+  text-align: left;
 }
 
 .about .content ul {
@@ -537,7 +538,7 @@ section {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #3c0648;
+  border-left: 4px solid #3c0648;
   position: relative;
 }
 
@@ -1219,7 +1220,7 @@ section {
 }
 
 .tech{
-  height: 40px;
+  height: 30px;
 
 }
 .cv{
